@@ -28,7 +28,8 @@ n=int(input())
 ``````
 ## Output:
 
-![Alt text](image-3.png)
+![image](https://github.com/23013753/Circulate-the-values-of-N-variables/assets/145634121/0556a57c-082d-4ccf-9d91-e06b524a20cc)
+
 
 ## Result:
 this result is executed sucessfully
